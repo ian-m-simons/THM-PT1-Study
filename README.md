@@ -1,0 +1,2 @@
+# TryHackMe Junior Penetration Tester Notes
+The purpose of this repository is to store my notes for the TryHackMe Junior Penetration Tester certification. The files reference each other and are meant to be added to an obsidian vault. "THM PT1.md" serves as the table of contents connecting to all notes and as I am able to complete challenge boxes it will also link to those. 
