@@ -12,4 +12,4 @@ the purpose of this vault is:
 - [[Passive Reconnaissance]]
 - [[Active Reconnaissance]]
 - [[Protocols and Servers]]
-- 
+- [[Protocols and Servers (part 2)]]
